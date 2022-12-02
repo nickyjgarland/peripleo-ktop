@@ -1,5 +1,5 @@
 {
-  "initial_bounds": [-7.9, 49.5, 2.2, 59.4],
+  "initial_bounds": [-7.9, 49.5, 2.2, 56.1],
   "map_style": "./map-style-OSM.json",
   "welcome_message": "welcome.md",
   "data": [
@@ -7,7 +7,7 @@
       "name": "Roman Rural Settlement Project",
       "format": "LINKED_PLACES",
       "src": "./data/rrsp_test.json",
-      "attribution": "Martyn Allen, Nathan Blick, Tom Brindle, Tim Evans, Michael Fulford, Neil Holbrook, Lisa Lodwick, Julian D Richards, Alex Smith (2018) The Rural Settlement of Roman Britain: an online resource [data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1030449"
+      "attribution": "M. Allen, N. Blick, T. Brindle, T. Evans, M. Fulford, N. Holbrook, L. Lodwick, J.D. Richards, A. Smith (2018) The Rural Settlement of Roman Britain: an online resource [data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1030449"
     }
   ],
   "facets": [
@@ -17,6 +17,6 @@
     "type"
   ],
   "link_icons": [
-    { "pattern": "archaeologydataservice.ac.uk/archives/view/romangl/",  "img": "./logos/ads-logo.png", "label": "ADS" }
+    { "pattern": "archaeologydataservice.ac.uk/archives/view/romangl",  "img": "./logos/ads-logo.png", "label": "ADS" }
   ]
 }
