@@ -6,7 +6,7 @@
     {
       "name": "Roman Rural Settlement Project",
       "format": "LINKED_PLACES",
-      "src": "./data/rrsp_test.json",
+      "src": "./data/rrsp_021222.json",
       "attribution": "M. Allen, N. Blick, T. Brindle, T. Evans, M. Fulford, N. Holbrook, L. Lodwick, J.D. Richards, A. Smith (2018) The Rural Settlement of Roman Britain: an online resource [data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1030449"
     }
   ],
