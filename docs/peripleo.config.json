@@ -10,14 +10,10 @@
     }
   ],
   "facets": [
-    "type"
+    { "name": "size", "path": ["properties", "size"] },
+    { "name": "form", "path": ["properties", "form"] }
   ],
   "link_icons": [
-    { "pattern": "https://archaeologydataservice.ac.uk/",  "img": "./logos/ads-logo.png", "label": "ADS" },
-    { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
-    { "pattern": "en.wikipedia.org", "img": "./logos/en.wikipedia.org.png", "label": "Wikipedia" },
-    { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
-    { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
-    { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
+    { "pattern": "https://archaeologydataservice.ac.uk/archives/view/romangl/",  "img": "./logos/ads-logo.png", "label": "ADS" }
   ]
 }
