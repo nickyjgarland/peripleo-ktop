@@ -5,7 +5,7 @@
     {
       "name": "rrsp_data",
       "format": "LINKED_PLACES",
-      "src": "./data/rrsp_data_convert.json",
+      "src": "./data/rrsp_test.json",
       "attribution": "Martyn Allen, Nathan Blick, Tom Brindle, Tim Evans, Michael Fulford, Neil Holbrook, Lisa Lodwick, Julian D Richards, Alex Smith (2018) The Rural Settlement of Roman Britain: an online resource [data-set]. York: Archaeology Data Service [distributor] https://doi.org/10.5284/1030449"
     }
   ],
